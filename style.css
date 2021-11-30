@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+}
+
+th {
+background-color:darkseagreen;
+color: white;
+padding: 20px
+}
+
+tr {
+    border-bottom: 1px solid silver;
+}
+
+td {
+    padding-right: 30px
+}
+
+.spa1 {
+    color:silver;
+    font-size: 10px;
+}
+
+tr:hover {
+    border-left: 1px solid black;
+}
